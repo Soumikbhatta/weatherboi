@@ -1,7 +1,8 @@
 html, body, #root {
-    font: 1rem;
-    background: #0a1f44;
-    color: #1e2432;
+    font-size: 1rem;
+    font-family: 'montserrat' !important;
+    background: #000000;
+    color: #000000;
     height: 100%;
     margin: 0;
 }
@@ -21,12 +22,13 @@ html, body, #root {
 }
 
 .search {
+    font-size: 130%;
     outline: none;
-    padding: 20px 7%;
+    padding: 20px !important;
     border-radius: 20px;
     border: none;
     margin-bottom: 5%;
-    background: rgba(250, 250, 250, 0.85);
+    background: rgb(250, 250, 250);
 }
 
 .city {
@@ -34,10 +36,10 @@ html, body, #root {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    padding: 40px 8%;
+    padding:40px 5%;
     border-radius: 20px;
     background: rgba(250, 250, 250, 0.85);
-    box-shadow: 10px 10px 5px 0px rgba(15, 15, 15, 0.404);
+    box-shadow: 10px 10px 5px 0px rgba(8, 8, 8, 0.068);
 }
 
 p {
@@ -55,7 +57,7 @@ p {
 }
 
 .city sup {
-    font-size: 0.5em;
+    font-size: 0.4em;
 }
 
 .city-name {
@@ -67,7 +69,7 @@ p {
     margin-left: 0.2em;
     border-radius: 30px;
     color: #fff;
-    background: #ff8c00;
+    background: #5100ff;
 }
 
 .city-icon {
