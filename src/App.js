@@ -18,8 +18,8 @@ const App = () => {
     return (
         <div className='main-container'>
             <Helmet>
-                <title>Bros.</title>
-                <meta name='description' content='Social Media App using React + Redux, Node, Express, MongoDB' />
+                <title>weatherboi</title>
+                <meta name='description' content='React Web App which shows the weather' />
             </Helmet>
             <input type='text' className='search' placeholder='search...' value={query} onChange={(e) => setQuery(e.target.value)} onKeyPress={search} />
             {weather.main && (
