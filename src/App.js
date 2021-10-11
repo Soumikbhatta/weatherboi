@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import { fetchWeather } from './api/fetchWeather'
 import './App.css';
+import { Helmet } from 'react-helmet';
 
 
 const App = () => {
@@ -16,6 +17,10 @@ const App = () => {
     }
     return (
         <div className='main-container'>
+            <Helmet>
+                <title>Bros.</title>
+                <meta name='description' content='Social Media App using React + Redux, Node, Express, MongoDB' />
+            </Helmet>
             <input type='text' className='search' placeholder='search...' value={query} onChange={(e) => setQuery(e.target.value)} onKeyPress={search} />
             {weather.main && (
                 <div className="city">
