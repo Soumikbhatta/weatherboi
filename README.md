@@ -12,30 +12,51 @@ he tells the weather.
 
 weatherboi is a [Progressive Web App][pwa] (PWA) using ReactJS and [JavaScript Service Worker API][swjs]
 
-# Tech Stack 📚
+## Tech Stack 📚
+<br>
 
 <p align="center">
-
-
 <img alt="React" src="https://img.shields.io/badge/-react-black?logo=react&style=for-the-badge">
 <img alt="JavaScript" src="https://img.shields.io/badge/-javascript-yellow?logo=javascript&logoColor=white&style=for-the-badge">
 <img alt="css" src="https://img.shields.io/badge/-css3-blue?logo=css3&style=for-the-badge">
 <img alt="html" src="https://img.shields.io/badge/-html5-red?logo=html5&logoColor=white&style=for-the-badge">
-
 </p>
 
-# Screenshots
+<br>
 
-![](image/README/1634823826811.png)
+## Screenshots
+
+<br>
+
+<p align="center">
+    <img src="image/README/1634823826811.png" width="700" />
+    <br>
+ </p>
+
+<br>
+
+## Desktop installable
+
+<br>
+
+<p align="center">
+    <img src="image/README/1634823559030.png" width="400" />
+    <br>
+ </p>
+ 
+ <br>
 
 
-Desktop installable
+## Progressive Web App
 
-![](image/README/1634823559030.png)
+<br>
 
-# Progressive Web App
-
-![](image/README/1634823656230.png)
+<p align="center">
+    <img src="image/README/1634823656230.png" width="700" />
+    <br>
+ </p>
+ 
+ <br>
 
 # Setup
 
