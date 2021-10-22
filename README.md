@@ -1,6 +1,5 @@
 # weatherboi
 
-
 <p align="center">
     <img src="image/README/icon.png" width="150" />
     <br>
@@ -9,10 +8,10 @@
 he tells the weather.
 </p>
 
-
 weatherboi is a [Progressive Web App][pwa] (PWA) using ReactJS and [JavaScript Service Worker API][swjs]
 
 ## Tech Stack 📚
+
 <br>
 
 <p align="center">
@@ -43,20 +42,19 @@ weatherboi is a [Progressive Web App][pwa] (PWA) using ReactJS and [JavaScript S
     <img src="image/README/1634823559030.png" width="400" />
     <br>
  </p>
- 
- <br>
 
+<br>
 
 ## Progressive Web App
 
 <br>
 
 <p align="center">
-    <img src="image/README/1634823656230.png" width="700" />
+    <img src="image/README/1634876675780.png" width="700" />
     <br>
  </p>
- 
- <br>
+
+<br>
 
 # Setup
 
